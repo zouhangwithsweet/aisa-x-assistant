@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "title": "A week of ideas worth revisiting",
+    "target": "@sample_reader (fictional)",
+    "generated_at": "2026-10-16T18:00:00+08:00",
+    "timezone": "Asia/Shanghai",
+    "language": "en",
+    "collections": [
+      "Following feed",
+      "Liked posts"
+    ],
+    "requested_window": "10–16 October 2026",
+    "time_basis": "Post creation time; like timestamps are unavailable",
+    "coverage": "Fictional review dataset: 6 posts, 2 collections, no live account data",
+    "stop_reason": "All six review examples included",
+    "pages_fetched": 0,
+    "sort": "likes",
+    "sample": true,
+    "cost": {
+      "actual_usd": 0,
+      "estimated_usd": 0
+    }
+  },
+  "overview": "Six fictional posts illustrate a personal reading brief: practical AI workflows, evidence-led research, clear product design, and account-access boundaries. Every finding links back to the included evidence.",
+  "findings": [
+    {
+      "title": "Move from collecting to testing",
+      "summary": "The examples connect saved AI ideas with small experiments and a source-linked topic index.",
+      "post_ids": [
+        "demo-01",
+        "demo-05"
+      ]
+    },
+    {
+      "title": "Keep uncertainty in the picture",
+      "summary": "Research context and missing metrics are preserved, so the report does not overstate what the sample can show.",
+      "post_ids": [
+        "demo-02",
+        "demo-06"
+      ]
+    },
+    {
+      "title": "Design for a clear next step",
+      "summary": "Recovery copy and account-access explanations reduce confusion without hiding the underlying limitation.",
+      "post_ids": [
+        "demo-03",
+        "demo-04"
+      ]
+    }
+  ],
+  "limitations": [
+    "All names, posts, metrics, and source destinations in this preview are fictional.",
+    "The date window describes post creation, not when a user liked or viewed the content.",
+    "One post has an unavailable like count and is listed after posts with known counts. The two posts tied at 430 likes are ordered by creation time."
+  ],
+  "posts": [
+    {
+      "id": "demo-01",
+      "author": "@sample_builder",
+      "url": "https://example.com/fictional-x/demo-01",
+      "created_at": "2026-10-15T14:00:00+08:00",
+      "action_at": null,
+      "headline": "Turn saved posts into small experiments",
+      "summary": "A practical workflow moves from collecting AI tips to writing one testable experiment for each saved idea.",
+      "excerpt": "Save the source, name the experiment, and record what changed.",
+      "topics": [
+        "AI tools",
+        "Research"
+      ],
+      "collections": [
+        "Following feed",
+        "Liked posts"
+      ],
+      "metrics": {
+        "likes": 1840,
+        "reposts": 72,
+        "replies": 30,
+        "views": 24000
+      },
+      "notes": [
+        "Fictional post created only to review the report layout."
+      ]
+    },
+    {
+      "id": "demo-02",
+      "author": "@sample_researcher",
+      "url": "https://example.com/fictional-x/demo-02",
+      "created_at": "2026-10-14T10:30:00+08:00",
+      "action_at": null,
+      "headline": "Read the evidence behind a promising result",
+      "summary": "A research note separates a paper’s reported result from the dataset, baseline, and evaluation needed to interpret it.",
+      "excerpt": "A headline result becomes useful when the baseline and test conditions are clear.",
+      "topics": [
+        "Research"
+      ],
+      "collections": [
+        "Liked posts"
+      ],
+      "metrics": {
+        "likes": 960,
+        "reposts": 84,
+        "replies": 21,
+        "views": 12000
+      },
+      "notes": [
+        "Fictional post created only to review the report layout."
+      ]
+    },
+    {
+      "id": "demo-03",
+      "author": "@sample_designer",
+      "url": "https://example.com/fictional-x/demo-03",
+      "created_at": "2026-10-12T16:00:00+08:00",
+      "action_at": null,
+      "headline": "Make an empty state offer one next action",
+      "summary": "An interface example replaces a vague error with a clear explanation and a way to recover without losing context.",
+      "excerpt": "Show what this space is for and one useful next action.",
+      "topics": [
+        "Product design"
+      ],
+      "collections": [
+        "Following feed",
+        "Liked posts"
+      ],
+      "metrics": {
+        "likes": 430,
+        "reposts": 35,
+        "replies": 18,
+        "views": 6800
+      },
+      "notes": [
+        "Fictional post created only to review the report layout."
+      ]
+    },
+    {
+      "id": "demo-04",
+      "author": "@sample_security",
+      "url": "https://example.com/fictional-x/demo-04",
+      "created_at": "2026-10-13T09:00:00+08:00",
+      "action_at": null,
+      "headline": "Separate service sign-in from account permission",
+      "summary": "A security explainer distinguishes signing into a service from authorizing that service to read another account.",
+      "excerpt": "A working service login does not identify every connected social account.",
+      "topics": [
+        "Security",
+        "AI tools"
+      ],
+      "collections": [
+        "Following feed"
+      ],
+      "metrics": {
+        "likes": 430,
+        "reposts": 35,
+        "replies": 15,
+        "views": 6400
+      },
+      "notes": [
+        "Fictional post created only to review the report layout."
+      ]
+    },
+    {
+      "id": "demo-05",
+      "author": "@sample_organizer",
+      "url": "https://example.com/fictional-x/demo-05",
+      "created_at": "2026-10-11T11:45:00+08:00",
+      "action_at": null,
+      "headline": "Keep a topic index with links back to sources",
+      "summary": "A lightweight index groups saved ideas by intended use while retaining links to the original context.",
+      "excerpt": "Useful categories describe what you might do with an idea.",
+      "topics": [
+        "Product design"
+      ],
+      "collections": [
+        "Liked posts"
+      ],
+      "metrics": {
+        "likes": 0,
+        "reposts": 2,
+        "replies": 0,
+        "views": null
+      },
+      "notes": [
+        "Fictional post created only to review the report layout."
+      ]
+    },
+    {
+      "id": "demo-06",
+      "author": "@sample_evaluator",
+      "url": "https://example.com/fictional-x/demo-06",
+      "created_at": "2026-10-16T08:30:00+08:00",
+      "action_at": null,
+      "headline": "Leave unavailable metrics visibly unknown",
+      "summary": "An evaluation note explains why missing engagement values should remain unknown rather than becoming zero in a ranking.",
+      "excerpt": "Unknown is a data state, not a low score.",
+      "topics": [
+        "AI tools"
+      ],
+      "collections": [
+        "Following feed"
+      ],
+      "metrics": {
+        "likes": null,
+        "reposts": 10,
+        "replies": 4,
+        "views": 3400
+      },
+      "notes": [
+        "Fictional post created only to review the report layout."
+      ]
+    }
+  ]
+}

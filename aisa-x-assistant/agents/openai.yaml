@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIsa X Assistant"
+  short_description: "Read, organize, and report on authorized X content"
+  default_prompt: "Use $aisa-x-assistant to prepare a reading brief from my X content, with optional setup questions and Markdown or HTML output."
